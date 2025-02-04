@@ -1,4 +1,4 @@
-#🧑🏻‍💻 LLM Response Clustering Experiments
+# 🧑🏻‍💻 LLM Response Clustering Experiments
 " Open AI embedding 활용해서 쿼리 응답 클러스터링 실험
 
 ## 📁 개요
